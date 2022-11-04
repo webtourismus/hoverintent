@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/hoverintent",
+    "description": "Mirror of https://www.npmjs.com/package/hoverintent as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "https://github.com/tristen/hoverintent"
+}
